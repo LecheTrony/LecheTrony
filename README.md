@@ -3,12 +3,10 @@
 <h2> Hola, Bienvenido a mi perfil de Github ! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-Yo soy LecheTrony, un apacionado a la programacion con el objetivo de mejorar, ando entendiendo los lenguajes de este mundo. 
-intento resulver problemas.
-Soy alguien en desarrollo en este mundo y me gustaria
-poder crear mis propios proyectos.
-Tambien me gustan los videojuegos y espero algun
-dia participar.
+Soy LecheTrony, un apasionado de la programación con el firme objetivo de crecer y mejorar cada día. 
+Estoy explorando y comprendiendo los lenguajes que dan vida al mundo digital, siempre buscando resolver problemas y aprender de cada reto.
+Me considero alguien en constante desarrollo, con el sueño de crear mis propios proyectos y dejar mi huella en este ámbito. 
+Además, disfruto mucho de los videojuegos y espero algún día poder participar activamente en ese universo que tanto me inspira.
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
