@@ -75,7 +75,8 @@ Además, disfruto mucho de los videojuegos y espero algún día poder participar
 
 ## 📊 Estadísticas de GitHub
 
-proximamente
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LecheTrony&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LecheTrony&layout=compact&theme=radical)
 
 ## 📬 Contáctame
 
