@@ -1,5 +1,7 @@
+<!--
  <img src="https://cdn2.steamgriddb.com/hero_thumb/6480c49d48373ac0bf41cf8cb8fc5a64.jpg" width ="100%">
 <br />
+-->
 <h2> Hola, Bienvenido a mi perfil de Github ! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
