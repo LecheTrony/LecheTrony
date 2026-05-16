@@ -82,7 +82,7 @@ Además, disfruto mucho de los videojuegos y espero algún día poder participar
     ![antiX](https://img.shields.io/badge/antiX-2C2C2C?style=for-the-badge&logo=linux&logoColor=white)
     ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
     ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
-
+    ![Bazzite](https://img.shields.io/badge/Bazzite-5A4FCF?style=for-the-badge&logo=fedora&logoColor=white)
 
 
 </p>
