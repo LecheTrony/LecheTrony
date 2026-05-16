@@ -55,6 +55,8 @@ Además, disfruto mucho de los videojuegos y espero algún día poder participar
     ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Lazygit](https://img.shields.io/badge/Lazygit-FF6F00?style=for-the-badge&logo=git&logoColor=white)
+    ![OpenCode](https://img.shields.io/badge/OpenCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
