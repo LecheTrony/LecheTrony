@@ -70,6 +70,7 @@ Además, disfruto mucho de los videojuegos y espero algún día poder participar
 
     ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
     ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF3366?style=for-the-badge&logo=python&logoColor=white)
+    ![RPG Maker](https://img.shields.io/badge/RPG%20Maker-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 
 - 🐧 Distros de Linux usadas
 
