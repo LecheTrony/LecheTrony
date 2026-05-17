@@ -81,6 +81,7 @@ Además, disfruto mucho de los videojuegos y espero algún día poder participar
     ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavour&logoColor=white)
     ![Nyarch](https://img.shields.io/badge/Nyarch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=pink)
     ![Xubuntu](https://img.shields.io/badge/Xubuntu-0044AA?style=for-the-badge&logo=xubuntu&logoColor=white)
+    ![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)
     ![MX Linux](https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white)
     ![antiX](https://img.shields.io/badge/antiX-2C2C2C?style=for-the-badge&logo=linux&logoColor=white)
     ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
